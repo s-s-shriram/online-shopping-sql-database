@@ -1,6 +1,6 @@
 INSERT INTO Customers (Name, Email, Phone, Address) VALUES
 ('Alice', 'alice@gmail.com', '9876543210', 'Chennai'),
-('Bob', 'bob@gmail.com', '9123456780', 'Madurai');
+('Bob', 'bob@gmail.com', '9167456780', 'Madurai');
 
 INSERT INTO Products (Name, Description, Price, Stock) VALUES
 ('iPhone 14', 'Apple Smartphone', 79999, 50),
